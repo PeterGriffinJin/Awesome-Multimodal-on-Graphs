@@ -13,6 +13,9 @@ A curated list of papers and resources about multimodal learning on graphs. The 
 
     *Yunxin Li, Baotian Hu, Haoyuan Shi, Wei Wang, Longyue Wang, Min Zhang* [[PDF](https://arxiv.org/abs/2405.04950)], 2024.5
 
+2. **Multimodal LLMs Struggle with Basic Visual Network Analysis: a VNA Benchmarkt.** `preprint`
+
+    *Evan M. Williams, Kathleen M. Carley* [[PDF](https://arxiv.org/abs/2405.06634)], 2024.5
 
 ## Citations
 
