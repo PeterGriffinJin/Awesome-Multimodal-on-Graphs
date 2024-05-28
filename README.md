@@ -17,6 +17,12 @@ A curated list of papers and resources about multimodal learning on graphs. The 
 
     *Evan M. Williams, Kathleen M. Carley* [[PDF](https://arxiv.org/abs/2405.06634)], 2024.5
 
+## Image Generation
+1. **SG-Adapter: Enhancing Text-to-Image Generation with Scene Graph Guidance.** `ICML2024`
+
+    *Guibao Shen, Luozhou Wang, Jiantao Lin, Wenhang Ge, Chaozhe Zhang, Xin Tao, Yuan Zhang, Pengfei Wan, Zhongyuan Wang, Guangyong Chen, Yijun Li, Ying-Cong Chen* [[PDF](https://arxiv.org/abs/2405.15321)], 2024.5
+
+
 ## Citations
 
 Please cite the following paper if you find the resource helpful for your research.
