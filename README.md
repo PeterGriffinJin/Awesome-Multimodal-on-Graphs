@@ -17,6 +17,11 @@ A curated list of papers and resources about multimodal learning on graphs. The 
 
     *Hao Yan, Chaozhuo Li, Zhigang Yu, Jun Yin, Ruochen Liu, Peiyan Zhang, Weihao Han, Mingzheng Li, Zhengxin Zeng, Hao Sun, Weiwei Deng, Feng Sun, Qi Zhang, Senzhang Wang* [[PDF](https://arxiv.org/abs/2410.09132)] [[Code](https://github.com/sktsherlock/ATG)] 2024.10
 
+3. **Benchmarking and Improving Large Vision-Language Models for Fundamental Visual Graph Understanding and Reasoning.** `preprint`
+
+    *Yingjie Zhu, Xuefeng Bai, Kehai Chen, Yang Xiang, Min Zhang* [[PDF](https://arxiv.org/abs/2412.13540)] [[Code](https://github.com/AAAndy-Zhu/VGCure)] 2024.12
+
+
 ## Reasoning
 1. **VisionGraph: Leveraging Large Multimodal Models for Graph Theory Problems in Visual Context.** `ICML2024`
 
