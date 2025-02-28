@@ -9,7 +9,7 @@ A curated list of papers and resources about multimodal learning on graphs. The 
 **Please cite the paper in [Citations](#citations) if you find the resource helpful for your research. Thanks!**
 
 ## Benchmark
-1. **Multimodal Graph Benchmark.** `preprint`
+1. **Mosaic of Modalities: A Comprehensive Benchmark for Multimodal Graph Learning.** `CVPR 2025`
 
     *Jing Zhu, Yuhang Zhou, Shengyi Qian, Zhongmou He, Tong Zhao, Neil Shah, Danai Koutra* [[PDF](https://arxiv.org/abs/2406.16321)] [[Code](https://github.com/mm-graph-benchmark/mm-graph-benchmark)] [[PDF](https://huggingface.co/datasets/mm-graph-org/mm-graph)] 2024.6
 
@@ -23,7 +23,7 @@ A curated list of papers and resources about multimodal learning on graphs. The 
 
 
 ## Reasoning
-1. **VisionGraph: Leveraging Large Multimodal Models for Graph Theory Problems in Visual Context.** `ICML2024`
+1. **VisionGraph: Leveraging Large Multimodal Models for Graph Theory Problems in Visual Context.** `ICML 2024`
 
     *Yunxin Li, Baotian Hu, Haoyuan Shi, Wei Wang, Longyue Wang, Min Zhang* [[PDF](https://arxiv.org/abs/2405.04950)], 2024.5
 
@@ -32,13 +32,18 @@ A curated list of papers and resources about multimodal learning on graphs. The 
     *Evan M. Williams, Kathleen M. Carley* [[PDF](https://arxiv.org/abs/2405.06634)], 2024.5
 
 ## Image Generation
-1. **SG-Adapter: Enhancing Text-to-Image Generation with Scene Graph Guidance.** `ICML2024`
+1. **SG-Adapter: Enhancing Text-to-Image Generation with Scene Graph Guidance.** `ICML 2024`
 
     *Guibao Shen, Luozhou Wang, Jiantao Lin, Wenhang Ge, Chaozhe Zhang, Xin Tao, Yuan Zhang, Pengfei Wan, Zhongyuan Wang, Guangyong Chen, Yijun Li, Ying-Cong Chen* [[PDF](https://arxiv.org/abs/2405.15321)], 2024.5
 
-2. **InstructG2I: Synthesizing Images from Multimodal Attributed Graphs.** `NeurIPs2024`
+2. **InstructG2I: Synthesizing Images from Multimodal Attributed Graphs.** `NeurIPs 2024`
 
     *Bowen Jin, Ziqi Pang, Bingjun Guo, Yu-Xiong Wang, Jiaxuan You, Jiawei Han* [[PDF](https://arxiv.org/abs/2410.07157)], 2024.10
+
+## Multimodal Generation
+1. **GRAPHGPT-O: Synergistic Multimodal Comprehension and Generation on Graphs.** `CVPR 2025`
+
+    *Yi Fang, Bowen Jin, Jiacheng Shen, Sirui Ding, Qiaoyu Tan, Jiawei Han.* [[PDF](https://arxiv.org/abs/2502.11925)], 2025.2
 
 
 ## Citations
