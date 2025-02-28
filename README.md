@@ -11,7 +11,7 @@ A curated list of papers and resources about multimodal learning on graphs. The 
 ## Benchmark
 1. **Mosaic of Modalities: A Comprehensive Benchmark for Multimodal Graph Learning.** `CVPR 2025`
 
-    *Jing Zhu, Yuhang Zhou, Shengyi Qian, Zhongmou He, Tong Zhao, Neil Shah, Danai Koutra* [[PDF](https://arxiv.org/abs/2406.16321)] [[Code](https://github.com/mm-graph-benchmark/mm-graph-benchmark)] [[PDF](https://huggingface.co/datasets/mm-graph-org/mm-graph)] 2024.6
+    *Jing Zhu, Yuhang Zhou, Shengyi Qian, Zhongmou He, Tong Zhao, Neil Shah, Danai Koutra* [[PDF](https://arxiv.org/abs/2406.16321)] [[Code](https://github.com/mm-graph-benchmark/mm-graph-benchmark)] [[data](https://huggingface.co/datasets/mm-graph-org/mm-graph)] 2024.6
 
 2. **When Graph meets Multimodal: Benchmarking on Multimodal Attributed Graphs Learning.** `preprint`
 
